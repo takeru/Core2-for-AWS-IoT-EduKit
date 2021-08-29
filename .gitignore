@@ -19,3 +19,5 @@
 **/endpoint.info
 **/device.key
 **/mfg.bin
+
+Blinky-Hello-World/utilities/AWS_IoT_registration_helper/output_files/*
